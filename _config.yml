@@ -1,0 +1,10 @@
+# basic options
+title: Your awesome title
+author: Mojtaba Tajmohammad
+email: tajmohammad40@gmail.com
+description: A wonderful blog
+github_username:  MojtabaTaj
+
+# Build settings
+markdown: kramdown
+theme: minima
